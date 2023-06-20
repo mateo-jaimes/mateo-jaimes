@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angello Jaimes</h1>
 
-- 🔭 I’m currently studdying at **Pontificia Universidad Javeriana and working at EIEME**
+- 🔭 I’m currently studying at **Pontificia Universidad Javeriana and working at EIEME**
 
 - 🌱 I’m currently learning **AWS and OCI**
 
